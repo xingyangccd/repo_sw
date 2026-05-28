@@ -1,2 +1,2 @@
 def hello():
-    return "Hello 202323043_희건춘 - Version from repo1"
+    return "Hello 202323043_희건춘 - Updated repo1 version"
